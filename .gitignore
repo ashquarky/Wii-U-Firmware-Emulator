@@ -1,8 +1,7 @@
 build/
-files/*
+files
 logs/*
 main
 main.i64
-!files/dsp_irom.bin
-!files/dsp_drom.bin
 !logs/.gitignore
+.idea/
